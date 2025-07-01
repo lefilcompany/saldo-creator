@@ -6,6 +6,8 @@ import os
 from dotenv import load_dotenv
 load_dotenv()
 
+st.set_page_config(page_title="Saldo Creator")
+
 # Autentica com chave segura
 stripe.api_key = os.getenv("STRIPE_SECRET_KEY")
 
