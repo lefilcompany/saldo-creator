@@ -1,7 +1,7 @@
 category,description,net_amount,currency
-starting_balance,Starting balance (2025-06-01),0.0,
-activity_gross,Account activity before fees,0.0,
-activity_fee,Less fees,0.0,
+starting_balance,Starting balance (2025-06-01),3.0,
+activity_gross,Account activity before fees,6.0,
+activity_fee,Less fees,7.0,
 activity,Activity,0.0,
 payouts_gross,Payouts to bank,0.0,
 payouts_fee,Payout fees,0.0,
